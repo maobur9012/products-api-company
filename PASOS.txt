@@ -1,0 +1,17 @@
+npm init -y
+
+npm run build
+
+npm start 
+
+npm i express bcryptjs cors dotenv jsonwebtoken mongoose morgan helmet
+
+npm i @babel/core @babel/node @babel/preset-env nodemon -D
+
+mkdir controllers libs middlewares models routs
+
+"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe"
+
+48:28
+
+
